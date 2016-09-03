@@ -1,20 +1,4 @@
-name: ASYOMIN
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.93772
-title: The Journey
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#0c1013'
@@ -26,4 +10,21 @@ color:
   lightness: 0.8125
   saturation: 0.25
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: ASYOMIN
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: The Journey
+description: '2016'
 purpose: []
